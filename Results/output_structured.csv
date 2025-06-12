@@ -1,0 +1,91 @@
+company,model,voltage,capacity,type
+Panasonic Energy,HHR150AA,1.2V,1580 mAh,Nickel Metal Hydride
+US Electronics Inc.,Batter0y,1.2 V,1650 mAh,
+B B Battery,BK200AAB,,1980 mAh,Nickel Metal Hydride
+US Electronics Inc.,HR-4/5AU,1.2 V,2150 mAh,
+Panasonic Energy,HHR380A,1.2V,3800 mAh,Nickel Metal Hydride
+Cornell Dubilier Knowles,HR-4/3AU,1.2 V,4000 mAh,
+Power Sonic Corporation,PSC-6500A-C,9 V,4.50 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Energizer Battery Company,NH22-175,9V,175 mAh,Nickel Metal Hydride
+B B Battery,PS-1220,12V,2.50 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Power Sonic Corporation,75V/cell,12 V,2.30Ah,Lead Acid (VRLA)
+Power Sonic Corporation,PS-1270,15.0V,7.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Power Sonic Corporation,PS-1270,15.0V,7.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-1290,12V,9.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Energizer Battery Company,NH15-2300,,2300 mAh,Nickel Metal Hydride
+B B Battery,PS-12180,12V,18.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-12180,12V,18.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-12550,12V,55.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,BK80AAAB,,,Nickel Metal Hydride
+Panasonic Energy,BK60AAAHU,,,Nickel Metal Hydride
+B B Battery,PSC-6300A-C,6V,1.20 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PSC-6500A-C,6V,3.50 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Power Sonic Corporation,0600M7H022086405211,9 V,7.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-1230,12V,3.40 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Cornell Dubilier Knowles,Batter0y,1.2 V,1200 mAh,
+US Electronics Inc.,Batter0y,1.2 V,3000 mAh,
+Panasonic Energy,HHR210A,1.2V,2200 mAh,Nickel Metal Hydride
+B B Battery,BK200AAB,,1980 mAh,Nickel Metal Hydride
+Energizer Battery Company,NH15-2300,,2300 mAh,Nickel Metal Hydride
+Panasonic Energy,BK300SCP,,,Nickel Metal Hydride
+Power Sonic Corporation,TPBAT12-9,12V,8.5Ah,Sealed Lead Acid (SLA)
+Power Sonic Corporation,PSC-124000-PC,12V,36.0 AH,
+B B Battery,PS-1250,15.0V,4.50 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-1250,15.0V,4.50 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-6100,6V,12.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Power Sonic Corporation,PS-12350,3 V,35.0 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-121000,2 V,100.0 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Energizer Battery Company,NH35-2500,,2500 mAh,Nickel Metal Hydride
+Energizer Battery Company,,1.2V,850 mAh,Nickel Metal Hydride
+B B Battery,PS-6100,6V,12.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Power Sonic Corporation,PC9-12S,14.7V,9AH,Sealed Lead Acid (SLA)
+B B Battery,PS-12260S,12V,26.0 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+B B Battery,PS-12260S,12V,26.0 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Power Sonic Corporation,PS-12350,3 V,35.0 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Panasonic Energy,BK200AAP,1.0V,1980 mAh,Nickel Metal Hydride
+Energizer Battery Company,NH50-2500,,2500 mAh,Nickel Metal Hydride
+Power Sonic Corporation,PHR-1236,94 V,8.5 AH,
+Power Sonic Corporation,HMRH12290084-151,1.67V,21.2 AH,
+Power Sonic Corporation,PSC-124000-PC,12V,27.0 AH,
+Power Sonic Corporation,PSC-1210000-PC,12V,58.0 AH,
+Power Sonic Corporation,PSC-1210000-PC,12V,95.0 AH,
+Panasonic Energy,HHR150AA,1.2V,1580 mAh,Nickel Metal Hydride
+US Electronics Inc.,Batte0ry,1.2 V,1580 mAh,
+Panasonic Energy,HHR200A,1.2V,2040 mAh,Nickel Metal Hydride
+Panasonic Energy,HHR380A,,,Nickel Metal Hydride
+Cornell Dubilier Knowles,HR-4/3AU,1.2 V,4000 mAh,
+Panasonic Energy,HHR450A,1.2V,4500 mAh,Nickel Metal Hydride
+Power Sonic Corporation,TPBAT12-180,12V,180Ah,"Sealed Lead Acid (SLA, VRLA, AGM)"
+Panasonic Energy,BK300SCP,,,Nickel Metal Hydride
+Panasonic Energy,HHR450A,1.2V,4500 mAh,Nickel Metal Hydride
+Power Sonic Corporation,PSC-122000A-C,12V,12.00 AH,"Sealed Lead Acid (SLA, VRLA, AGM)"
+"GlobTek, Inc.",1950mAH,1.0V,1950AH,Lithium-Ion
+Cornell Dubilier Knowles,HR-3UTG,1.2 V,2000 mAh,
+Nichicon,SLB08115L140,2.4V,14mAh,Lithium-Ion
+Power Sonic Corporation,INR18650JD-30P,3.6 V,3000 mAh,Lithium
+Power Sonic Corporation,INR21700JD-40P,3.7 V,4000 mAh,Lithium
+Energizer Battery Company,NH12-700,,700 mAh,Nickel Metal Hydride
+B B Battery,HHR70AA,1.2V,780 mAh,Nickel Metal Hydride
+"FDK America, Inc.",HR-4/5AAUC,1.2 V,1100 mAh,
+Energizer Battery Company,NH15-2300,,2300 mAh,Nickel Metal Hydride
+"FDK America, Inc.",HR-2/3AAAUT,1.00V,220mAh,Lithium
+Panasonic Energy,BK220SCHU,1.0V,2200 mAh,Nickel Metal Hydride
+Panasonic Energy,BK250SCH,12V,,Nickel Metal Hydride
+Energizer Battery Company,NH22-175,9V,175 mAh,Nickel Metal Hydride
+Panasonic Energy,HHR210A,1.2V,2200 mAh,Nickel Metal Hydride
+US Electronics Inc.,HR-4/5AU,1.2 V,2150 mAh,
+"FDK America, Inc.",HR-2/3AAAUT,1.00V,220mAh,Lithium
+US Electronics Inc.,Batter0y,1.2 V,3000 mAh,
+Panasonic Energy,BK250SCH,12V,,Nickel Metal Hydride
+Nichicon,SLB12400L151,2.4V,150mAh,Lithium-Ion
+Nichicon,SLB12400L151,2.4V,150mAh,Lithium-Ion
+Energizer Battery Company,,1.2V,850 mAh,Nickel Metal Hydride
+Energizer Battery Company,NH35-2500,,2500 mAh,Nickel Metal Hydride
+Energizer Battery Company,NH50-2500,,2500 mAh,Nickel Metal Hydride
+Power Sonic Corporation,LC-P0612P,6V,12Ah,Lead Acid (VRLA)
+B B Battery,75V/cell,12V,3.0Ah,Lead Acid (VRLA)
+Power Sonic Corporation,75V/cell,12 V,5.3Ah,Lead Acid (VRLA)
+Eaton Tripp Lite,SU700XLCD,,,Sealed Lead Acid (SLA)
+Power Sonic Corporation,MSB-200,2 V,200Ah,Lead Acid (VRLA)
+Power Sonic Corporation,TPBAT12-9,12V,8.5Ah,Sealed Lead Acid (SLA)
+Power Sonic Corporation,PSC-1220000-PC,12V,150.0 AH,
